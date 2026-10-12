@@ -5,7 +5,7 @@ router = {
     'device_type': 'cisco_ios',
     'host': '192.168.11.1',
     'username': 'student',
-    'password': 'cisco123',
+    'password': 'PXL',
 }
 
 try:
